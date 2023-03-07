@@ -1,0 +1,86 @@
+
+
+.sobre{
+    padding: 2.5rem;
+    text-align: center;
+
+
+}
+
+.sobre__titulo{
+    color:rgb(109, 30, 30);
+    font-family: pacifico,cursive;
+    
+}
+
+.sobre__descripcion{
+    color: #8C8888;
+    
+    font-weight: 100;
+
+}
+
+
+
+@media screen and (min-width:0) {
+    .cabecera{
+        padding:1.5rem 1rem;
+        
+      
+
+    }
+    
+}
+
+@media screen and (min-width:768px) {
+    .sobre{
+        padding:2.5rem;
+        font-size: 1.1875rem;
+        
+      
+
+    }
+    
+
+}
+
+@media screen and (min-width:0) {
+    .sobre__titulo{
+        font-size: 2rem;
+        
+      
+
+    }
+    
+}
+
+@media screen and (min-width:768px) {
+    .sobre__titulo{
+        font-size: 3.1875rem;
+        
+      
+
+    }
+    
+}
+
+
+@media screen and (min-width:0) {
+    .sobre__descripcion{
+        font-size: 1.3rem;
+        
+      
+
+    }
+    
+}
+
+@media screen and (min-width:768px) {
+    .sobre__descripcion{
+        font-size: 1.75rem;
+        
+      
+
+    }
+    
+}

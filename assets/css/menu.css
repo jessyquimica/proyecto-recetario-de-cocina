@@ -1,0 +1,30 @@
+
+
+.menu-lista{
+    display: flex;
+
+
+
+}
+
+.menu-item{
+    list-style: none;
+
+}
+
+.menu-link{
+    color: blanchedalmond;
+    margin-right: 1.25rem;
+   
+
+
+}
+
+.menu-link:hover{
+    text-decoration: underline;
+}
+
+.menu-link.activo{
+    color: #efe9e9;
+
+}
